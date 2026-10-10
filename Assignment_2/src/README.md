@@ -168,5 +168,3 @@ NEW  ──► RUNNABLE ──► TERMINATED
 | Usage | Check from outside thread | Check from inside thread |
 
 ---
-
-*Java Version: JDK 8+*
